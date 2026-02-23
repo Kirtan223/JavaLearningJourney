@@ -24,9 +24,10 @@ public class SistemasNumericosEntradaScanner {
 
 
 
-        String mensaje = ( "numero decilmal = " + numeroDecimal + "Numero binario de "  + "\n" + numeroDecimal + "= " + Integer.toBinaryString(numeroDecimal)
-       + "\n" + "numero octal de  = " + numeroDecimal +" es igual a" + Integer.toOctalString(numeroDecimal) + "numero exadecimal de  = "
-                + "\n" + numeroDecimal +" es igual a" + Integer.toHexString(numeroDecimal));
+        String mensaje = ( "numero decilmal = " + numeroDecimal  +
+                "\n" + "Numero binario de " + numeroDecimal + "es igual a = " + Integer.toBinaryString(numeroDecimal) +
+                "\n" + "numero octal de " + numeroDecimal +" es igual a = " + Integer.toOctalString(numeroDecimal) +
+                "\n"+ "numero exadecimal de " + numeroDecimal +" es igual a = " + Integer.toHexString(numeroDecimal));
 
         System.out.println(mensaje);
 
