@@ -1,3 +1,5 @@
+package semana01;
+
 public class Primitivos {
     public static void main(String[] args) {
         byte numeroByte = 7;

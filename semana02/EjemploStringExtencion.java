@@ -1,4 +1,4 @@
-/* en este ejerciio corto se vera como se pueden usar algunos metodos de string para encontrar las extenciones de archvos
+package semana02;/* en este ejerciio corto se vera como se pueden usar algunos metodos de string para encontrar las extenciones de archvos
 en una computadora
  */
 
@@ -10,8 +10,7 @@ public class EjemploStringExtencion {
         int i = archivo.lastIndexOf(".");
 
 
-        System.out.println("i = " + i);;
-
+        System.out.println("i = " + i);
 
 
         System.out.println("archivo.length() = " + archivo.length());

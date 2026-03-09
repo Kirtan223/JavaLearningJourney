@@ -1,3 +1,5 @@
+package semana01;
+
 import javax.swing.*;
 import java.util.Scanner;
 

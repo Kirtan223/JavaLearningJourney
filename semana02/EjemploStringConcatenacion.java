@@ -1,4 +1,4 @@
-/* Krisna Kirtan Castro Vivar
+package semana02;/* Krisna Kirtan Castro Vivar
 23 de febrero del 2026
 
  */

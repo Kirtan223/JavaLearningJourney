@@ -1,4 +1,4 @@
-/* Krisna Kirtan Castro Vivar
+package semana02;/* Krisna Kirtan Castro Vivar
 23 de febrero del 2026
  este ejercio pretende demostrar que la concatenacion con .concat es mas eficiente que concatenra
 solo con + y que el Stringbuilder es mas rapido que .concat

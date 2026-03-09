@@ -1,4 +1,4 @@
-/* Krisna Kirtan Castro Vivar
+package semana02;/* Krisna Kirtan Castro Vivar
 23 de febrero del 2026
 lo que se pretende ver en este ejercicio es que los string son inmutables aun cuando se hace concatenacion
 o modificacion lo unico que pasa es que se crea una nuevo objeto con los cambios hace la antigua pero en

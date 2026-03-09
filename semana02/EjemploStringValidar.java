@@ -1,4 +1,4 @@
-/*Krisna Kirtan Castro Vivar
+package semana02;/*Krisna Kirtan Castro Vivar
 23 de febrero 2026
 Aui se vera la validacion de datos string de diferentes formas usando diferentes metodos
  */

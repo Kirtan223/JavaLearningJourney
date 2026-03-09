@@ -1,4 +1,4 @@
-/* Krisna Kirtan Castro Vivar
+package semana02;/* Krisna Kirtan Castro Vivar
     24 de febrero 2026
     en este ejecicio se aprendio que los string hacen objetos inmutables donde y que la variable marcada por el nombre dels string es la referencia a ese objeto
     que cunado se crea un nuebo

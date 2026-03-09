@@ -1,4 +1,4 @@
-/* en este ejercicio se reviso como se pueden ultizar las conversiones de datos String a primitivos y viceversa*/
+package semana01;/* en este ejercicio se reviso como se pueden ultizar las conversiones de datos String a primitivos y viceversa*/
 
 
 
